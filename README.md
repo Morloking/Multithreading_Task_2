@@ -14,6 +14,8 @@ cmake --build build --config Debug
 After building, run the executable:
 ```bash
 .\build\Release\multi_2.exe
+
+.\build\Debug\multi_2.exe
 ```
 
 # Conclusion
