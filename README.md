@@ -4,6 +4,7 @@ Run the following commands in your terminal:
 ```bash
 cmake -S . -B build
 cmake --build build --config Release
+cmake --build build --config Debug
 ```
 
 ---
