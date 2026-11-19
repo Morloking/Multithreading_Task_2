@@ -14,3 +14,7 @@ After building, run the executable:
 ```bash
 .\build\Release\multi_2.exe
 ```
+
+# Conclusion
+In the release version, a single thread is faster; in the debug version, parallelization yields better results.
+![Result on my pc](./images/result.png)
